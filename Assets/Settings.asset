@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3710df5b6afe403a9a1d70fd01ae857c, type: 3}
+  m_Name: Settings
+  m_EditorClassIdentifier: 
+  <EnemySettings>k__BackingField:
+    <Prefab>k__BackingField: {fileID: 3525567179866841548, guid: f857719d6cb927d479673fb8504e6571, type: 3}
+  <AudioSettings>k__BackingField:
+    <HitClips>k__BackingField:
+    - {fileID: 8300000, guid: 975e9eadd3db00d4a85defffbd5d7275, type: 3}
+    - {fileID: 8300000, guid: 907a922e55751d644921d68783db8a0f, type: 3}
+    <DeathClip>k__BackingField: {fileID: 8300000, guid: 478ec0a8ccb1c3c4fa16409a6130bb43, type: 3}
+    <ResurrectClip>k__BackingField: {fileID: 8300000, guid: 57572c36fb0ba8742b209c202342c248, type: 3}
+  <FloatingTextSettings>k__BackingField:
+    <FloatingTextPrefab>k__BackingField: {fileID: 8471190241608020900, guid: c3b9ad399ae8ca94280b211397f4e9b2, type: 3}
+  <ParticleSettings>k__BackingField:
+    <HitParticlesPrefab>k__BackingField: {fileID: 446340165458583096, guid: e677a7ca8043bef43ba0b9002ea38bb1, type: 3}
+    <DeathParticlesPrefab>k__BackingField: {fileID: 4623971338410889702, guid: 2e43254fc14913a42962301df32d28f9, type: 3}
